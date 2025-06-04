@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ch.qos.logback.classic.PatternLayout",
+    "methods": [{"name": "<init>", "parameterTypes": [] }]
+  },
+  {
+    "name": "org.slf4j.LoggerFactory",
+    "methods": [{"name": "getLogger", "parameterTypes": ["java.lang.String"] }]
+  }
+]
